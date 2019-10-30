@@ -71,7 +71,7 @@ h1 {
   outline: 0;
   padding: 16px 0;
   text-indent: 20px;
-  width: 100%;
+  width: 80%;
 }
 
 .choice-bucket label ~ input {
@@ -92,7 +92,7 @@ h1 {
   margin: 60px 0;
   background: #fff;
   border-radius: 6px;
-  color: #713e94;
+  color: violet;
   transition: 1s linear;
 }
 
