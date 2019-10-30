@@ -93,7 +93,7 @@ h1 {
   background: #fff;
   border-radius: 6px;
   color: violet;
-  transition: 1s linear;
+  transition: 10s linear;
 }
 
 #answers p {
