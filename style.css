@@ -63,7 +63,7 @@ h1 {
 }
 
 .choice-bucket input {
-  border: 6px dotted violet;
+  border: 4px dashed violet;
   border-radius: 6px;
   color: #713e94;
   font-size: 18px;
