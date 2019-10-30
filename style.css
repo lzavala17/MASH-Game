@@ -63,15 +63,15 @@ h1 {
 }
 
 .choice-bucket input {
-  border: 2px dotted violet;
+  border: 6px dotted violet;
   border-radius: 6px;
-  color: violet;
+  color: #713e94;
   font-size: 18px;
   margin: 15px 4%;
   outline: 0;
   padding: 16px 0;
   text-indent: 20px;
-  width: 80%;
+  width: 92%;
 }
 
 .choice-bucket label ~ input {
@@ -92,8 +92,8 @@ h1 {
   margin: 60px 0;
   background: #fff;
   border-radius: 6px;
-  color: violet;
-  transition: 10s linear;
+  color: #713e94;
+  transition: 1s linear;
 }
 
 #answers p {
