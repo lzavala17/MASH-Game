@@ -30,9 +30,9 @@ h1 {
 /* Submit Button, Columns, Questions, and Inputs */
 .button-submit {
   background: transparent;
-  border: 3px solid #fff;
+  border: 3px dashed violet;
   border-radius: 6px;
-  color: #fff;
+  color: violet;
   cursor: pointer;
   display: block;
   font-size: 20px;
@@ -58,6 +58,7 @@ h1 {
 
 .choice-bucket label {
   font-size: 12px;
+  color: violet;
   line-height: 13px;
   margin: 15px 4%;
 }
