@@ -63,6 +63,7 @@ h1 {
 }
 
 .choice-bucket input {
+  background: black;
   border: 3px dashed violet;
   border-radius: 6px;
   color: violet;
@@ -90,9 +91,10 @@ h1 {
 /* Answer Div */
 #answers {
   margin: 60px 0;
-  background: #fff;
+  background: black;
+  border: 3px dashed violet;
   border-radius: 6px;
-  color: #713e94;
+  color: violet;
   transition: 2s linear;
 }
 
