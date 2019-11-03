@@ -58,7 +58,7 @@ h1 {
 
 .choice-bucket label {
   font-size: 12px;
-  color: violet;
+  color: #6BD238;
   line-height: 13px;
   margin: 15px 4%;
 }
@@ -67,7 +67,7 @@ h1 {
   background: black;
   border: 3px dashed violet;
   border-radius: 6px;
-  color: violet;
+  color: #6BD238;
   font-size: 18px;
   margin: 15px 4%;
   outline: 0;
@@ -95,7 +95,7 @@ h1 {
   background: black;
   border: 3px dashed violet;
   border-radius: 6px;
-  color: violet;
+  color: #6BD238;
   transition: 2s linear;
 }
 
